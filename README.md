@@ -1,4 +1,4 @@
-## Prazer, Lucas. Bem vindo(a)! 👋
+## Olá! Seja bem vindo(a)! 👋
 > Tecnologia e educação são minhas prioridades. Dessa forma busco impactar a vida das pessoas através do meu conhecimento.
 <div align="center">
   <a href="https://github.com/lucascc19">
